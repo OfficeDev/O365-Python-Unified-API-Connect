@@ -29,7 +29,7 @@ def get_token(request):
 
   # Save the token and other information for the view in the session.
   request.session['access_token'] = access_token
-  request.session['name'] = user_info['given_name']
+  request.session['name'] = user_info['name']
   request.session['emailAddress'] = user_info['upn']  
   request.session['showSuccess'] = 'false'
   request.session['showError'] = 'false'
