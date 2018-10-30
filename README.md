@@ -77,5 +77,7 @@ Your feedback is important to us. Connect with us on [Stack Overflow](http://sta
 * [Microsoft Graph API](http://graph.microsoft.io)
 * [Office UI Fabric](http://dev.office.com/fabric)
 
-## Copyright
+## License and Copyright
 Copyright (c) 2016 Microsoft. All rights reserved.
+
+Distributed under the MIT License.
